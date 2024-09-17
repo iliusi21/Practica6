@@ -15,5 +15,10 @@
 ## Algebra
 **Docente:** Hugo Tlatxueltl
 
-**Descripción:** En esta materia estoy aprendiendo conceptos fundamentales de las matrices y vectores usando Python 
+**Descripción:** En esta materia estoy aprendiendo conceptos fundamentales de las matrices y vectores usando Python.
+
+## Programación
+**Docente:** Jonathan Miranda 
+
+**Descripción:** En esta materia vemos fundamentos basicos de Git y Github 
 
