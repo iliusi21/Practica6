@@ -22,3 +22,7 @@
 
 **Descripción:** En esta materia vemos fundamentos basicos de Git y Github 
 
+## Matemáticas
+**Docente:** Rogelio Trejo
+
+**Descripción:** En esta materia estoy aprendiendo conceptos fundamentales de cálculo diferencial e integral.
