@@ -1,6 +1,6 @@
 # Mi Repositorio
 
-**Nombre:** [iliusi reyna]
+**Nombre:** iliusi reyna
 
 ## Introducion a la Ciberseguridad ##
 **Docente:** Cynthia Jimenez 
@@ -11,4 +11,9 @@
 **Docente:** Rebeca Pantoja
 
 **Descripción:** En esta materia vemos la historia de los computadores y el internet, el modelo OSI entre otras cosas.
+
+## Algebra
+**Docente:** Hugo Tlatxueltl
+
+**Descripción:** En esta materia estoy aprendiendo conceptos fundamentales de las matrices y vectores usando Python 
 
