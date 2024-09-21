@@ -26,3 +26,5 @@
 **Docente:** Rogelio Trejo
 
 **Descripción:** En esta materia estoy aprendiendo conceptos fundamentales de cálculo diferencial e integral.
+
+Creando la versión 1.0.0 de este repositorio.
